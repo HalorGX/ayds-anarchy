@@ -1,0 +1,8 @@
+Usar <npm start> tanto para client como para server
+La carpeta server viene con database.sql, lo cual contiene las queries necesarias
+para crear la base de datos.
+(Se incluye un dump realizado en pgAdmin que puede ser usado para tener una base ya hecha
+con algunos datos de relleno)
+La pagina de los clientes se abre en localhost:2000
+La pagina del jefe de proyecto se abre en localhost:3000
+El backend se abre en localhost:5000 
